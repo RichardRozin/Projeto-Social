@@ -18,6 +18,7 @@ html,body{
 
 main{
     height: 100vh;
+    width: 100vw;
     position: relative;
 }
 
@@ -44,7 +45,7 @@ section#telefone{
 
 #redes-sociais a{
     position: relative;
-    left: 42%;
+    left: 10%;
     padding: 10px;
 }
 
